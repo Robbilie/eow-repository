@@ -6,5 +6,13 @@
       "name": "eow-settings",
       "url": "https://github.com/Robbilie/eow-settings.git"
     }
+  },
+  {
+    "name": "EOW zKillboard",
+    "description": "Basic zKillboard Widget",
+    "repository": {
+      "name": "eow-zkillboard",
+      "url": "https://github.com/Robbilie/eow-zkillboard.git"
+    }
   }
 ]
