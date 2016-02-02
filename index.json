@@ -3,6 +3,7 @@
     "name": "Settings",
     "description": "The default Settings widget",
     "repository": {
+      "name": "eow-settings",
       "url": "https://github.com/Robbilie/eow-settings.git"
     }
   }
