@@ -8,6 +8,14 @@
     }
   },
   {
+    "name": "EOW Search",
+    "description": "Basic Search Widget",
+    "repository": {
+      "name": "eow-search",
+      "url": "https://github.com/Robbilie/eow-search.git"
+    }
+  },
+  {
     "name": "EOW zKillboard",
     "description": "Basic zKillboard Widget",
     "repository": {
