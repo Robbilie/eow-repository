@@ -22,5 +22,13 @@
       "name": "eow-zkillboard",
       "url": "https://github.com/Robbilie/eow-zkillboard.git"
     }
+  },
+  {
+    "name": "EOW Basic Log Viewer",
+    "description": "Basic log viewer Widget for EOW",
+    "repository": {
+      "name": "eow-basiclogviewer",
+      "url": "https://github.com/Robbilie/eow-basiclogviewer.git"
+    }
   }
 ]
